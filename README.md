@@ -2,7 +2,8 @@
 
 * <b> Accelerated - Time Series Forecasting (Instructor Led): </b>
   
-  Completion date: April 2022
+  Completion date: April 2022 <br>
+  Instructor: [AWS Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
 
   The goal is to be able to analyze time series data competently and to train, evaluate and tune appropriate forecasting models to predict future points in a series. The course covers classical time series forecasting methods, including moving averages, exponential smoothing, and autoregressive methods. It also introduces modern DL approaches and existing Amazon forecasting tools. The main focus of the course is on practical applications for time series forecasting, identifying the set of suitable approaches based on data features, training methods and validation of the proposed solutions.
     
@@ -19,6 +20,7 @@
 * <b> Technique - Mathematical Fundamentals for Machine Learning (Instructor Led): </b>
   
   Completion date: February 2022
+  Instructor: [AWS Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
   
   Students will frame and solve fundamental ML business problems leveraging appropriate mathematical and statistical concepts, implementing from scratch some of the most popular ML algorithms, such as K-Nearest Neighbors, Decision Plane, Linear Regression, Logistic Regression, Naive Bayes, Principal Components Analysis, Hypothesis Testing, and Recommender System. The course covers three main mathematical and statistical areas: Linear Algebra, Differential Calculus, and Probability and Statistics. 
     
@@ -34,6 +36,7 @@
 * <b> AWS - The Machine Learning Pipeline on AWS: </b>
   
   Completion date: April 2021
+  Instructor: [AWS training](https://www.aws.training/)
   
   This course explores how to the use of the iterative machine learning (ML) process pipeline to solve a real business problem in a project-based learning environment. Students will learn about each phase of the process pipeline from instructor presentations and demonstrations and then apply that knowledge to complete a project solving one of three business problems: fraud detection, recommendation engines, or flight delays. By the end of the course, students will have successfully built, trained, evaluated, tuned, and deployed an ML model using Amazon SageMaker that solves their selected business problem.   
   
@@ -52,6 +55,7 @@
 * <b> AWS - Big Data on AWS: </b>
   
   Completion date: March 2021
+  Instructor: [AWS training](https://www.aws.training/)
   
   This course introduces you to cloud-based big data solutions such as Amazon Elastic MapReduce (EMR), Amazon Redshift, Amazon Kinesis, and the rest of the AWS big data platform. Through this course, you learn how to use Amazon EMR to process data using the broad ecosystem of Hadoop tools like Hive and Hue. You gain a deeper understanding of how to create big data environments, work with Amazon DynamoDB, Amazon Redshift, Amazon QuickSight, Amazon Athena, and Amazon Kinesis, and leverage best practices to design big data environments for security and cost-effectiveness. 
   
@@ -74,6 +78,7 @@
 * <b> AWS - Data Analytics Fundamentals: </b>
   
   Completion date: February 2021
+  Instructor: [AWS training](https://www.aws.training/)
   
   In this self-paced course, you learn about the process for planning data analysis solutions and the various data analytic processes that are involved. This course takes you through five key factors that indicate the need for specific AWS services in collecting, processing, analyzing, and presenting your data. This includes learning basic architectures, value propositions, and potential use cases. The course introduces you to the AWS services and solutions to help you build and enhance data analysis solutions.
   
