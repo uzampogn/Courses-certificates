@@ -1,4 +1,4 @@
-# Course-certificates
+# Courses-certificates
 
 * <b> Accelerated - Time Series Forecasting (Instructor Led): </b>
   
