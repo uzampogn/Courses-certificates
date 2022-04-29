@@ -52,7 +52,7 @@
   <img src="https://github.com/uzampogn/course-certificates/blob/main/AWS%20-%20The%20Machine%20Learning%20Pipeline%20on%20AWS%20-%20Completion%20certificate.PNG" />
 </p>
 
-* <b> AWS - Big Data on AWS: </b>
+* <b> AWS - Big Data on AWS (Instructor Led): </b>
   
   Completion date: March 2021
   Instructor: [AWS training](https://www.aws.training/)
