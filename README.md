@@ -1,6 +1,8 @@
 # Courses-certificates
 
-* <b> Accelerated - Time Series Forecasting (Instructor Led): </b>
+<br>
+
+## <b> Accelerated - Time Series Forecasting (Instructor Led): </b>
   
   Completion date: April 2022 <br>
   Instructor: [AWS Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
@@ -17,7 +19,9 @@
   <img src="https://github.com/uzampogn/course-certificates/blob/main/MLU%20-%20Time%20Series%20Forecasting%20-%20Completion.PNG" />
 </p>
 
-* <b> Technique - Mathematical Fundamentals for Machine Learning (Instructor Led): </b>
+<br>
+
+## <b> Technique - Mathematical Fundamentals for Machine Learning (Instructor Led): </b>
   
   Completion date: February 2022
   Instructor: [AWS Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
@@ -25,15 +29,17 @@
   Students will frame and solve fundamental ML business problems leveraging appropriate mathematical and statistical concepts, implementing from scratch some of the most popular ML algorithms, such as K-Nearest Neighbors, Decision Plane, Linear Regression, Logistic Regression, Naive Bayes, Principal Components Analysis, Hypothesis Testing, and Recommender System. The course covers three main mathematical and statistical areas: Linear Algebra, Differential Calculus, and Probability and Statistics. 
     
   Key competencies:
-    * Identify problem types, algorithms, and metrics within an ML context, to build basic ML solutions, laying down strategies to address them using appropriate tools and techniques in a project development plan. 
-    * Utilize appropriate ML software development practices, ML models and Amazon tools for the project. 
+  * Identify problem types, algorithms, and metrics within an ML context, to build basic ML solutions, laying down strategies to address them using appropriate tools and techniques in a project development plan. 
+  * Utilize appropriate ML software development practices, ML models and Amazon tools for the project. 
 
 
 <p align="center">
   <img src="https://github.com/uzampogn/course-certificates/blob/main/MLU%20-%20Mathematical%20Fundamentals%20for%20Machine%20Learning%20-%20Completion.png" />
 </p>
 
-* <b> AWS - The Machine Learning Pipeline on AWS: </b>
+<br>
+
+## <b> AWS - The Machine Learning Pipeline on AWS: </b>
   
   Completion date: April 2021
   Instructor: [AWS training](https://www.aws.training/)
@@ -42,17 +48,19 @@
   
   In this course, you will learn how to:
 
-    * Select and justify the appropriate ML approach for a given business problem
-    * Use the ML pipeline to solve a specific business problem
-    * Train, evaluate, deploy, and tune an ML model in Amazon SageMaker
-    * Describe some of the best practices for designing scalable, cost-optimized, and secure ML pipelines in AWS
-    * Apply machine learning to a real-life business problem after the course is complete
+  * Select and justify the appropriate ML approach for a given business problem
+  * Use the ML pipeline to solve a specific business problem
+  * Train, evaluate, deploy, and tune an ML model in Amazon SageMaker
+  * Describe some of the best practices for designing scalable, cost-optimized, and secure ML pipelines in AWS
+  * Apply machine learning to a real-life business problem after the course is complete
 
 <p align="center">
   <img src="https://github.com/uzampogn/course-certificates/blob/main/AWS%20-%20The%20Machine%20Learning%20Pipeline%20on%20AWS%20-%20Completion%20certificate.PNG" />
 </p>
 
-* <b> AWS - Big Data on AWS (Instructor Led): </b>
+<br>
+
+## <b> AWS - Big Data on AWS (Instructor Led): </b>
   
   Completion date: March 2021
   Instructor: [AWS training](https://www.aws.training/)
@@ -61,21 +69,23 @@
   
   In this course, you will learn how to:
 
-    * Utilize Amazon EMR:
-    * Leverage Apache Hadoop and identify the common programming frameworks Hive, Pig, and Streaming.
-    * Leverage Hue to improve the ease-of-use and Apache Spark for in-memory analytics
-    * Utilize Amazon Kinesis for near real-time big data processing and Amazon Redshift to efficiently store and analyze data
-    * Managing the Big Data pipeline
-    * Utilize AWS Glue for Extract, Transform, & Load operations
-    * Leverage Amazon Athena for ad-hoc query analytics
-    * Orchestrate big data workflows using AWS Data Pipeline
-    * Use visualization software to depict data and queries using Amazon QuickSight 
+  * Utilize Amazon EMR:
+  * Leverage Apache Hadoop and identify the common programming frameworks Hive, Pig, and Streaming.
+  * Leverage Hue to improve the ease-of-use and Apache Spark for in-memory analytics
+  * Utilize Amazon Kinesis for near real-time big data processing and Amazon Redshift to efficiently store and analyze data
+  * Managing the Big Data pipeline
+  * Utilize AWS Glue for Extract, Transform, & Load operations
+  * Leverage Amazon Athena for ad-hoc query analytics
+  * Orchestrate big data workflows using AWS Data Pipeline
+  * Use visualization software to depict data and queries using Amazon QuickSight 
 
 <p align="center">
   <img src="https://github.com/uzampogn/course-certificates/blob/main/AWS%20-%20Big%20Data%20on%20AWS%20-%20Completion%20certificate.PNG" />
 </p>
 
-* <b> AWS - Data Analytics Fundamentals: </b>
+<br>
+
+## <b> AWS - Data Analytics Fundamentals: </b>
   
   Completion date: February 2021
   Instructor: [AWS training](https://www.aws.training/)
@@ -84,20 +94,20 @@
   
   In this course, you will learn how to:
 
-    * Identify the characteristics of data analysis solutions and the characteristics that indicate such a solution may be required
-    * Define types of data including structured, semistructured, and unstructured data
-    * Define data storage types such as data lakes, AWS Lake Formation, data warehouses, and the Amazon Simple Storage Service (Amazon S3)
-    * Analyze the characteristics of and differences in batch and stream processing
-    * Define how Amazon Kinesis is used to process streaming data
-    * Analyze the characteristics of different storage systems for source data
-    * Analyze the characteristics of online transaction processing (OLTP) and online analytical processing (OLAP) systems and their impact on the organization of data within these systems
-    * Analyze the differences of row-based and columnar data storage methods
-    * Define how Amazon EMR, AWS Glue, and Amazon Redshift each work to process, cleanse, and transform data within a data analysis solution
-    * Analyze the concept of atomicity, consistency, isolation, and durability (ACID) compliance as well as basic availability, soft state, eventual consistency (BASE) compliance and how an extract,         transform, load (ETL) process can help to ensure compliance
-    * Explore the concept of data schemas and understand how they define data and how this information is stored in metastores
-    * Analyze the concept of data versus information
-    * Recognize the ways to analyze data to produce information for reports using tools such as Amazon QuickSight and Amazon Athena
-    * Define how AWS services work together to visualize data
+  * Identify the characteristics of data analysis solutions and the characteristics that indicate such a solution may be required
+  * Define types of data including structured, semistructured, and unstructured data
+  * Define data storage types such as data lakes, AWS Lake Formation, data warehouses, and the Amazon Simple Storage Service (Amazon S3)
+  * Analyze the characteristics of and differences in batch and stream processing
+  * Define how Amazon Kinesis is used to process streaming data
+  * Analyze the characteristics of different storage systems for source data
+  * Analyze the characteristics of online transaction processing (OLTP) and online analytical processing (OLAP) systems and their impact on the organization of data within these systems
+  * Analyze the differences of row-based and columnar data storage methods
+  * Define how Amazon EMR, AWS Glue, and Amazon Redshift each work to process, cleanse, and transform data within a data analysis solution
+  * Analyze the concept of atomicity, consistency, isolation, and durability (ACID) compliance as well as basic availability, soft state, eventual consistency (BASE) compliance and how an extract,         transform, load (ETL) process can help to ensure compliance
+  * Explore the concept of data schemas and understand how they define data and how this information is stored in metastores
+  * Analyze the concept of data versus information
+  * Recognize the ways to analyze data to produce information for reports using tools such as Amazon QuickSight and Amazon Athena
+  * Define how AWS services work together to visualize data
 
 <p align="center">
   <img src="https://github.com/uzampogn/course-certificates/blob/main/AWS%20-%20Data%20Analytics%20Fundamentals%20-%20Completion%20certificate.PNG" />
